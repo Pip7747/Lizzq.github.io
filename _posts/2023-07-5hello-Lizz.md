@@ -1,6 +1,5 @@
 ---
-title: Hello Lizz
-date: 
+title: Hello there
 categories: [Lizz,study]
 tags: [servers,aws]
 ---
