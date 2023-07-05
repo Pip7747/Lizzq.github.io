@@ -20,7 +20,7 @@ timezone: Australia/Brisbane
 
 title: Liz's blog # the main title
 
-tagline: A doc site for my blog # it will display as the sub-title
+tagline: A Docs site for my learning journey # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A Docs site for my learning journey.
