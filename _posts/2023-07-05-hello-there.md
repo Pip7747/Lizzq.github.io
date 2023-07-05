@@ -1,6 +1,8 @@
 ---
 title: Hello there
 layout: post
+categories: [Lizz,study]
+tags: [Javascript，Typescript]
 ---
 
 # Welcome
