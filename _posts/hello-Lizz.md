@@ -1,6 +1,6 @@
 ---
 title: Hello Lizz
-date: 02/07/2023
+date: 2023/7/2
 categories: [Lizz,study]
 tags: [servers,aws]
 ---
