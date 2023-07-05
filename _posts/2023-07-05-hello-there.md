@@ -1,7 +1,6 @@
 ---
 title: Hello there
-categories: [Lizz,study]
-tags: [servers,aws]
+layout: post
 ---
 
 # Welcome
