@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://lh3.googleusercontent.com/pw/AJFCJaWX0ooRavXNSj-tmRhh0HEMzZaNJHfJcIMzX-qH-SNqSy264WlUe094ZL5Ztpp9o9I_ZRfgwKpOS8uXTKWIH94gRM8X2hBPMNzmLRLb2sbT8XdgcIo=w2400
+avatar: <a href="https://lh3.googleusercontent.com/pw/AJFCJaWX0ooRavXNSj-tmRhh0HEMzZaNJHfJcIMzX-qH-SNqSy264WlUe094ZL5Ztpp9o9I_ZRfgwKpOS8uXTKWIH94gRM8X2hBPMNzmLRLb2sbT8XdgcIo=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AJFCJaWX0ooRavXNSj-tmRhh0HEMzZaNJHfJcIMzX-qH-SNqSy264WlUe094ZL5Ztpp9o9I_ZRfgwKpOS8uXTKWIH94gRM8X2hBPMNzmLRLb2sbT8XdgcIo=w260-h255-p-k" /> </a>
 
 # boolean type, the global switch for TOC in posts.
 toc: true
