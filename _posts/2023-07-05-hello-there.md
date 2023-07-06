@@ -34,6 +34,7 @@ Certainly! Let's explore how TypeScript's features relate to code examples:
 
 1. Static Typing:
 ```typescript
+
 function addNumbers(a: number, b: number): number {
   return a + b;
 }
@@ -49,6 +50,7 @@ In the above example, TypeScript enforces static typing by specifying the expect
 TypeScript-enabled code editors or IDEs provide helpful features like autocompletion and code navigation. These tools leverage TypeScript's static typing information to provide suggestions and insights as you write code. For example, if you define an interface or class, the editor can provide suggestions for available properties and methods based on the type.
 
 ```typescript
+
 interface Person {
   name: string;
   age: number;
@@ -73,11 +75,10 @@ class Employee implements Person {
 const emp = new Employee("John Doe", 30, 12345);
 console.log(emp.greet()); // Output: Hello, my name is John Doe and I'm 30 years old.
 ```
-```
 
 In this example, TypeScript introduces interfaces (`Person`) and classes (`Employee`). Interfaces define the expected structure, while classes provide implementation details. TypeScript allows us to enforce that the `Employee` class implements the `Person` interface correctly. It also provides type checking during compilation to ensure that all required properties and methods are implemented.
 
-4. Compatibility:
+ 4. Compatibility:
 TypeScript is designed to be compatible with existing JavaScript code. You can gradually convert JavaScript codebases to TypeScript by renaming `.js` files to `.ts` and gradually adding type annotations or rewriting portions of code to take advantage of TypeScript features. This allows you to leverage the JavaScript ecosystem and libraries seamlessly.
 
 5. Scalability and Maintainability:
