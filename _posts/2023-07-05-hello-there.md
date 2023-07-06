@@ -13,20 +13,20 @@ tags: [Javascript，Typescript]
 
  What are the differences between Javascript and Typescript?
 
-   Javascript is a **subset** of Typescript, which means all Javascript is valid Typescript code.Compare to Javascript,Type Script has made several improvements:
+   Javascript is a `subset` of Typescript, which means all Javascript is valid Typescript code.Compare to Javascript,Type Script has made several improvements:
    TypeScript provides several key improvements over JavaScript:
 
-1. Static Typing: TypeScript introduces **static typing**, catching type-related errors during development and improving code quality and readability.
+1. Static Typing: TypeScript introduces `tatic typing`, catching type-related errors during development and improving code quality and readability.
 
-2. Enhanced Tooling: TypeScript offers **robust tooling** support with features like autocompletion, code navigation, and refactoring, enhancing developer productivity and reducing errors.
+2. Enhanced Tooling: TypeScript offers `robust tooling` support with features like autocompletion, code navigation, and refactoring, enhancing developer productivity and reducing errors.
 
-3. Additional Language Features: TypeScript **extends JavaScript with features** like classes, interfaces, modules, and enums, promoting structured and maintainable code organization.
+3. Additional Language Features: TypeScript `extends JavaScript with features` like classes, interfaces, modules, and enums, promoting structured and maintainable code organization.
 
-4. JavaScript Compatibility: TypeScript is a **superset** of JavaScript, allowing gradual adoption and leveraging the vast JavaScript ecosystem.
+4. JavaScript Compatibility: TypeScript is a `superset` of JavaScript, allowing gradual adoption and leveraging the vast JavaScript ecosystem.
 
-5. Scalability and Maintainability: TypeScript's static typing and **type enforcement aid** in writing scalable and maintainable code, with early error detection and improved collaboration.
+5. Scalability and Maintainability: TypeScript's static typing and `type enforcement aid` in writing scalable and maintainable code, with early error detection and improved collaboration.
 
-6. Language Server Protocol (LSP): TypeScript implements LSP, enabling **real-time code analysis** and **error checking** within development environments.
+6. Language Server Protocol (LSP): TypeScript implements LSP, enabling `real-time code analysis` and `error checking` within development environments.
 
 In summary, TypeScript improves JavaScript through static typing, enhanced tooling, additional language features, scalability, compatibility, and community support.
 
