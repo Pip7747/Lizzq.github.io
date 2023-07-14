@@ -33,7 +33,7 @@ In summary, TypeScript improves JavaScript through static typing, enhanced tooli
 Certainly! Let's explore how TypeScript's features relate to code examples:
 
 1. Static Typing:
-```typescript
+```javascript
 
 function addNumbers(a: number, b: number): number {
   return a + b;
@@ -49,7 +49,7 @@ In the above example, TypeScript enforces static typing by specifying the expect
 2. Enhanced Tooling:
 TypeScript-enabled code editors or IDEs provide helpful features like autocompletion and code navigation. These tools leverage TypeScript's static typing information to provide suggestions and insights as you write code. For example, if you define an interface or class, the editor can provide suggestions for available properties and methods based on the type.
 
-```typescript
+```javascript
 
 interface Person {
   name: string;
