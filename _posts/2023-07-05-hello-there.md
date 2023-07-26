@@ -35,7 +35,7 @@ Certainly! Let's explore how TypeScript's features relate to code examples:
 1. Static Typing:
 
 
-```javascript
+```markdown
 
 function addNumbers(a: number, b: number): number {
   return a + b;
@@ -55,7 +55,7 @@ TypeScript-enabled code editors or IDEs provide helpful features like autocomple
 
 
 
-```javascript
+```markdown
 
 interface Person {
   name: string;

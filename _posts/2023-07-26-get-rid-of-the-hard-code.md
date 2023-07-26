@@ -1,11 +1,13 @@
 ---
-title: How I Improved Our Jenkins File: Using Vault for Credential Management and Global Credentials
+title: How I Improved Our Jenkins File
 layout: post
 categories: [Lizz,study]
-tags: [Jenkins，vault]
+tags: [Jenkins，Vault]
 ---
 
-# How I Improved Our Jenkins File: Using Vault for Credential Management and Global Credentials
+
+# How I Improved Our Jenkins File: 
+Using Vault for Credential Management and Global Credentials
 
 ## Introduction
 
