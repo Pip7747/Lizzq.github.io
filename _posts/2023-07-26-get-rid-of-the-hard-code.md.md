@@ -1,4 +1,9 @@
-Apologies for the oversight. Here's the article written in Markdown format with the specified symbols:
+---
+title: How I Improved Our Jenkins File: Using Vault for Credential Management and Global Credentials
+layout: post
+categories: [Lizz,study]
+tags: [Jenkins，vault]
+---
 
 # How I Improved Our Jenkins File: Using Vault for Credential Management and Global Credentials
 
