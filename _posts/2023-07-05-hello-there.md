@@ -5,10 +5,10 @@ categories: [Lizz,study]
 tags: [Javascript，Typescript]
 ---
 
-# Welcome
+
 
 # Wellcome to the world of Javascript & Typescript!
-##
+
 ![image-description](https://lh3.googleusercontent.com/pw/AJFCJaX-6xbXXHUPATQr0u3CYxb7kSNQ1QSnt9_b2Zr5eI7gUnKlra7XkSo6d3YPF0wM3bQMvHzJlQIoR0OvubkUzbMNpgIG-aH3Ec6kzr20IVldhXKrN-A=w2400)
 
  What are the differences between Javascript and Typescript?
