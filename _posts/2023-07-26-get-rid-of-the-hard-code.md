@@ -6,8 +6,7 @@ tags: [Jenkins，Vault]
 ---
 
 
-# How I Improved Our Jenkins File: 
-Using Vault for Credential Management and Global Credentials
+# Using Vault for Credential Management and Global Credentials
 
 ## Introduction
 
