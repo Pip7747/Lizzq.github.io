@@ -22,6 +22,7 @@ For the backend, Ethereum provided robust smart contract capabilities, and Solid
 ### Installation and Configuration
 
 The development environment was set up using Ganache for testing and simulation. Ganache is ideal for developing Ethereum applications as it simulates blockchain environments allowing for smart contract deployment and interaction.
+
 ## Testing and Production Environments
 
 ### Using Web3.js for Frontend Interaction
@@ -39,8 +40,3 @@ async function castVote(candidateIndex) {
     await votingContract.methods.vote(candidateIndex).send({ from: accounts[0] });
 }
 
-## MetaMask and Node.js Lite Server
-For a real-world testing scenario and the production environment, I used MetaMask to handle Ethereum transactions and interact with the Ethereum network. Additionally, Node.js lite server was employed to serve the frontend application both during testing and in production. This setup ensured that the application was robust and performed well under real-world conditions.
-
-## Conclusion
-This project demonstrated how blockchain technology could significantly enhance the security and transparency of voting systems. The development of this decentralized voting system provided deep insights into blockchain applications and smart contract development.
