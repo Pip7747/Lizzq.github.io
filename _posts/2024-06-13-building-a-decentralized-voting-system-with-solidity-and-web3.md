@@ -5,7 +5,6 @@ categories: [Lizz, study]
 tags: [Blockchain, Solidity, Web3, Ethereum, Decentralized Applications]
 ---
 
-# Building a Decentralized Voting System with Solidity and Web3
 
 ## Introduction
 
@@ -39,4 +38,9 @@ async function castVote(candidateIndex) {
     const accounts = await web3.eth.getAccounts();
     await votingContract.methods.vote(candidateIndex).send({ from: accounts[0] });
 }
+```
+## MetaMask and Node.js Lite Server
+For a real-world testing scenario and the production environment, I used MetaMask to handle Ethereum transactions and interact with the Ethereum network. Additionally, Node.js lite server was employed to serve the frontend application both during testing and in production. This setup ensured that the application was robust and performed well under real-world conditions.
 
+## Conclusion
+This project demonstrated how blockchain technology could significantly enhance the security and transparency of voting systems. The development of this decentralized voting system provided deep insights into blockchain applications and smart contract development.
