@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-permalink: /about/
+order: 4
 ---
 
 # Liz Qian
