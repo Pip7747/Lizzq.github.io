@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me"
+icon: fas fa-archive
 order: 4
 ---
 
