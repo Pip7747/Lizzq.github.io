@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 icon: fas fa-archive
 order: 4
 ---
@@ -35,11 +35,14 @@ Worked as a DevOps engineer in 35 Middle, which provides SaaS service providing 
 ## Education
 **Queensland University of Technology**  
 *Bachelor of Information Technology - Computer Science Major*  
-*February 2023 - December 2024*
+*February 2023 - June 2025*
 
 ## Certifications and Training
+
+[AWS Solution Architecture Associate (SAA-C03)](https://www.google.com/search?q=AWS+Solution+Architect+Associate)
+
 - **Microsoft Build-DevOps Challenge**  
   *April 2023 - June 2023*  
   Mastering DevOps principles and practices for enhanced proficiency in Microsoft Azure cloud platform.
 
-  [AWS Solution Architecture Associate (SAA-C03)](https://www.google.com/search?q=AWS+Solution+Architect+Associate)
+  
