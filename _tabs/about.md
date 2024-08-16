@@ -13,7 +13,7 @@ order: 4
 - **Location:** Brisbane, QLD
 
 ## Introduction
-Liz is a motivated final-year computer science student specializing in DevOps and full-stack web development, on track to graduate in 2024. She has strong capability in Java Spring development and DevOps skills with experience in a greenfield web project for the student union of Queensland University of Technology, as well as using Jenkins for CI/CD pipelines and building up AWS infrastructure for an online video service. She is seeking internship or graduate positions to apply her technical expertise to deliver robust software features and to embark her career as a professional engineer.
+Liz is a motivated final-year computer science student specializing in DevOps and full-stack web development, on track to graduate in 2025. She has strong capability in Java Spring development and DevOps skills with experience in a greenfield web project for the student union of Queensland University of Technology, as well as using Jenkins for CI/CD pipelines and building up AWS infrastructure for an online video service. She is seeking internship or graduate positions to apply her technical expertise to deliver robust software features and to embark her career as a professional engineer.
 
 ## Technical Skills
 - **Programming Languages:** Java, JavaScript
@@ -43,7 +43,6 @@ Worked as a DevOps engineer in 35 Middle, which provides SaaS service providing 
 [AWS Solution Architecture Associate (SAA-C03)](https://www.google.com/search?q=AWS+Solution+Architect+Associate)
 
 - **Microsoft Build-DevOps Challenge**  
-  *April 2023 - June 2023*  
   Mastering DevOps principles and practices for enhanced proficiency in Microsoft Azure cloud platform.
 
   
