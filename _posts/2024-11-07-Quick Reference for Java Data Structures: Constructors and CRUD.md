@@ -36,8 +36,9 @@ int index = list.indexOf(20); // Find index of element 20  ```
 Fast for random access
 Slower for inserting and removing elements
 
+
 ## 2. LinkedList 
-LinkedList is a doubly-linked list, suitable for frequent inserts and deletes but slower for random access.
+`LinkedList` is a doubly-linked list, suitable for frequent inserts and deletes but slower for random access.
 
 ### Constructor
 ```java
@@ -63,8 +64,10 @@ boolean contains = linkedList.contains("B"); // Check if "B" exists  ```
 ### Characteristics
 Great for frequent insertions and deletions
 Slower for random access
+
+
 ## 3. HashMap
-HashMap is a key-value pair data structure. It allows for fast lookup, insertion, and deletion based on the key.
+`HashMap` is a key-value pair data structure. It allows for fast lookup, insertion, and deletion based on the key.
 
 ```java
 //Constructor
@@ -87,8 +90,10 @@ boolean containsValue = map.containsValue("Two Updated"); // Check if value "Two
 ### Characteristics
 Fast lookups, insertions, and deletions based on key
 No ordering of elements
+
+
 ## 4. TreeMap
-TreeMap is a map implementation that stores key-value pairs in a sorted order.
+`TreeMap` is a map implementation that stores key-value pairs in a sorted order.
 
 
 ```java
@@ -108,12 +113,13 @@ treeMap.put(2, "Two Updated");
 
 // Retrieve element
 String value = treeMap.get(3); // Get value associated with key 3
-boolean containsKey = treeMap.containsKey(2); // Check if key 2 exists```
+boolean containsKey = treeMap.containsKey(2); // Check if key 2 exists ```
 ### Characteristics
 Sorted by keys in natural order or by a comparator
 Slower than HashMap for most operations
+
 ## 5. HashSet
-HashSet is a collection of unique elements, which does not allow duplicate values.
+`HashSet` is a collection of unique elements, which does not allow duplicate values.
 
 ```java
 // Constructor
@@ -133,7 +139,7 @@ boolean contains = set.contains("Banana"); // Check if "Banana" exists ```
 
 
 ## 6. TreeSet
-TreeSet is a sorted set based on a red-black tree, with elements ordered either by natural order or custom comparator.
+`TreeSet` is a sorted set based on a red-black tree, with elements ordered either by natural order or custom comparator.
 
 ### Constructor
 java
@@ -153,7 +159,7 @@ boolean contains = treeSet.contains("Banana"); // Check if "Banana" exists
 ### Characteristics: Ordered, no duplicates, useful when sorted order is required.
 
 ## 7. Stack
-Stack is a last-in, first-out (LIFO) data structure.
+`Stack` is a last-in, first-out (LIFO) data structure.
 
 ```java
 // Constructor
@@ -173,7 +179,7 @@ boolean isEmpty = stack.isEmpty(); // Check if stack is empty
 ### Characteristics: Suitable for LIFO operations.
 
 ## 8. Queue (LinkedList Implementation)
-Queue is a first-in, first-out (FIFO) data structure.
+`Queue` is a first-in, first-out (FIFO) data structure.
 
 ```java
 // Constructor
@@ -193,7 +199,7 @@ boolean isEmpty = queue.isEmpty(); // Check if queue is empty
 ###Characteristics: Suitable for FIFO operations.
 
 ## 9. PriorityQueue
-PriorityQueue is a queue that sorts elements based on their priority, where elements are dequeued in priority order.
+`PriorityQueue` is a queue that sorts elements based on their priority, where elements are dequeued in priority order.
 
 ```java
 //Constructor
