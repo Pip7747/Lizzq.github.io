@@ -202,7 +202,7 @@ int front = queue.peek(); // Returns the front element
 boolean isEmpty = queue.isEmpty(); // Check if queue is empty
 ```
 
-###Characteristics: Suitable for FIFO operations.
+### Characteristics: Suitable for FIFO operations.
 
 ## 9. PriorityQueue
 `PriorityQueue` is a queue that sorts elements based on their priority, where elements are dequeued in priority order.
