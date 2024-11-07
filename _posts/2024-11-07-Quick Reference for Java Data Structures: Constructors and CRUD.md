@@ -211,7 +211,7 @@ priorityQueue.poll(); // Removes and returns the element with the highest priori
 int highestPriority = priorityQueue.peek(); // Returns the element with the highest priority ```
 ### Characteristics: Elements are dequeued by priority, useful when dynamic sorting is needed.
 
-### Explanation:
+## Explanation:
 
 - All content is enclosed within proper Markdown syntax, including headings, lists, and Java code blocks.
 - Each Java code section is wrapped in triple backticks with `java` to enable syntax highlighting in supported Markdown environments.
