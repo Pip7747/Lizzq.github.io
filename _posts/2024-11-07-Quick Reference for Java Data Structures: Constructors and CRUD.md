@@ -1,5 +1,10 @@
-_posts/2024-11-07-Quick Reference for Java Data Structures: Constructors and CRUD.mdQuick Reference for Java Data Structures: Constructors and CRUD
-While learning algorithms and exploring data structures, it can be extremely helpful to familiarize ourselves with the constructors and CRUD operations (Create, Read, Update, Delete) for commonly used data structures. This guide provides a quick reference for each of these operations across different Java data structures.
+---
+title: "Java Data Structures: Constructors and CRUD Operations"
+layout: post
+categories: [Coding, Study]
+tags: [Java, Data Structures, Algorithms]
+---
+
 
 1. ArrayList
 ArrayList is a resizable array, useful for random access but less efficient for inserting and removing elements.
