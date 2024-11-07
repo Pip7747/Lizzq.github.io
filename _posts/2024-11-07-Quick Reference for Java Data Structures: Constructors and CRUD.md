@@ -42,8 +42,8 @@ Slower for inserting and removing elements
 
 `LinkedList` is a doubly-linked list, suitable for frequent inserts and deletes but slower for random access.
 
-### Constructor
 ```java
+//Constructor
 List<String> linkedList = new LinkedList<>();
 
 // Add elements
