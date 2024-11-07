@@ -140,7 +140,8 @@ set.remove("Apple");
 boolean contains = set.contains("Banana"); // Check if "Banana" exists
 ```
 
-### Characteristics: Unordered, no duplicate elements, fast for lookups and inserts.
+### Characteristics
+Unordered, no duplicate elements, fast for lookups and inserts.
 
 
 ## 6. TreeSet
@@ -160,7 +161,8 @@ treeSet.remove("Apple");
 // Retrieve element
 boolean contains = treeSet.contains("Banana"); // Check if "Banana" exists
 ```
-### Characteristics: Ordered, no duplicates, useful when sorted order is required.
+### Characteristics
+Ordered, no duplicates, useful when sorted order is required.
 
 ## 7. Stack
 `Stack` is a last-in, first-out (LIFO) data structure.
@@ -181,7 +183,8 @@ int top = stack.peek(); // Returns the top element
 boolean isEmpty = stack.isEmpty(); // Check if stack is empty
 ```
 
-### Characteristics: Suitable for LIFO operations.
+### Characteristics
+Suitable for LIFO operations.
 
 ## 8. Queue (LinkedList Implementation)
 `Queue` is a first-in, first-out (FIFO) data structure.
@@ -202,7 +205,8 @@ int front = queue.peek(); // Returns the front element
 boolean isEmpty = queue.isEmpty(); // Check if queue is empty
 ```
 
-###Characteristics: Suitable for FIFO operations.
+### Characteristics
+Suitable for FIFO operations.
 
 ## 9. PriorityQueue
 `PriorityQueue` is a queue that sorts elements based on their priority, where elements are dequeued in priority order.
@@ -222,7 +226,8 @@ priorityQueue.poll(); // Removes and returns the element with the highest priori
 // Retrieve element
 int highestPriority = priorityQueue.peek(); // Returns the element with the highest priority
 ```
-### Characteristics: Elements are dequeued by priority, useful when dynamic sorting is needed.
+### Characteristics
+Elements are dequeued by priority, useful when dynamic sorting is needed.
 
 ## Explanation:
 
