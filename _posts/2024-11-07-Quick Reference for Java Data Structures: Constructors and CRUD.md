@@ -229,8 +229,3 @@ int highestPriority = priorityQueue.peek(); // Returns the element with the high
 ### Characteristics
 Elements are dequeued by priority, useful when dynamic sorting is needed.
 
-## Explanation:
-
-- All content is enclosed within proper Markdown syntax, including headings, lists, and Java code blocks.
-- Each Java code section is wrapped in triple backticks with `java` to enable syntax highlighting in supported Markdown environments.
-- The explanations and code examples follow the logical structure of **ArrayList**, **LinkedList**, **HashMap**, **TreeMap**, and **HashSet** sections.
